@@ -2,7 +2,7 @@
 
 A coding challenge to redesign the "Skip Select Page" of the RemWaste web app using React.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/waweru-kamau/remwaste-redesign)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/waweru-kamau/remwaste-redesign) or [![Open in Sandbox]](https://remwaste.weru.dev/)
 
 ## Main Redesign Features
 
