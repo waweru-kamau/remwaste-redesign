@@ -21,7 +21,7 @@ export function Card({ skipData }: { skipData: any }) {
       <div className="relative">
         <CardImage disabled={disabled} />
         <div className="w-full absolute bg-linear-to-b from-transparent to-black opacity-70 lg:aspect-auto h-1/2 bottom-0" />
-        <Subheading className="absolute">
+        <Subheading className="absolute text-white">
           £{skipData.price_before_vat}
           <span className="text-sm"> / week </span>
         </Subheading>
